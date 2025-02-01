@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   appwrite: ^13.0.0
-
+  get_it: ^7.6.6
 dev_dependencies:
   flutter_test:
     sdk: flutter
